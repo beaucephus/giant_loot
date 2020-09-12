@@ -47,7 +47,19 @@ loot = [
     "Uprooted berry bush",
     "10ft hempen rope tied to rowboat anchor",
     "Wagon wheel",
-    "Tombstone"
+    "Tombstone",
+    "Large Bag of Salt",
+    "Elf Bones",
+    "Bag of Onions",
+    "An Unhappy Lynx",
+    "Huge Leather Hammock",
+    "10gp",
+    "20gp",
+    "1gp",
+    "Snot Rag",
+    "50 ft. of Hempen Rope",
+    "Jar of Fishing Bait",
+    "Shiny Rock"
 ]
 
 if len(sys.argv) > 1:
